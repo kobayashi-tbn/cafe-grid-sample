@@ -1,0 +1,29 @@
+// Place all the styles related to the Tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#cafe-grid-container {
+  position: relative;
+  padding-top: 22px;
+  //overflow: auto;
+  overflow: hidden;
+  width: 420px;
+  height: 105px;
+  background-color: darkslategray;
+
+  #cafe-grid-scroll {
+
+    width: 420px;
+    height: 105px;
+    overflow: auto;
+
+    .cafe-grid {
+      width: 400px;
+      height: 105px;
+
+      border-style: solid;
+      border-width: 0px;
+      border-color: lightslategray;
+    }
+  }
+}
