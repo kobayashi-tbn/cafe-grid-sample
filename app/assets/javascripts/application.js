@@ -16,9 +16,10 @@
 //= require json2
 //= require backbone
 //= require CafeGrid/cafeGrid
-//= require_tree ../../../vendor/assets/javascripts/CafeGrid/models
-//= require_tree ../../../vendor/assets/javascripts/CafeGrid/views
-// require_tree ../../../vendor/assets/javascripts/CafeGrid/
+//= require_tree ../../../lib/assets/javascripts/CafeGrid/models
+//= require_tree ../../../lib/assets/javascripts/CafeGrid/views
+// require_tree ../../../vendor/assets/javascripts/CafeGrid/models
+// require_tree ../../../vendor/assets/javascripts/CafeGrid/views
 //= require task_app
 //= require_tree ./models
 //= require turbolinks

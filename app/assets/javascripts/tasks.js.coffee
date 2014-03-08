@@ -6,6 +6,7 @@ $ ->
     visibleTitle: false
     title: undefined
     scroll: true
+    multiSelect: true
     containerViewWidth: "400px"
     containerViewHeight: "100px"
     scrollPaneWidth: "400px"
